@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  overflow: hidden;
+  height: 100%;
+  width: 100%;
+}
+
+.taskbar {
+  background-color: #f3f3f3;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  height: 5%;
+}
+
+.right {
+  justify-content: flex-end;
+  position: absolute;
+  right: 0;
+  margin: 6px 0;
+  height: 80%;
+}
