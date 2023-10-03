@@ -17,6 +17,7 @@ body {
   display: flex;
   justify-content: center;
   height: 5%;
+  z-index: 110;
 }
 
 .right {
@@ -25,4 +26,18 @@ body {
   right: 0;
   margin: 6px 0;
   height: 80%;
+}
+
+.startmenu {
+  position: absolute;
+  bottom: -650px;
+  width: 100%;
+  text-align: center;
+  transition: all 0.3s ease-in;
+}
+
+.startmenu img {
+  border-radius: 8px;
+  width: 35%;
+  height: auto;
 }
