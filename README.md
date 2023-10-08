@@ -2,10 +2,6 @@ https://github.com/iamamanporwal/winui/assets/74871831/1cee3cae-7abf-4cdb-a567-2
 
 # Windows 11 UI Clone
 
-![GitHub stars](https://img.shields.io/github/stars/iamamanporwal/winui)
-![GitHub forks](https://img.shields.io/github/forks/iamamanporwal/winui)
-![GitHub issues](https://img.shields.io/github/issues/iamamanporwal/winui)
-
 A Windows 11 User Interface clone created using HTML and CSS. This project serves as a learning exercise to replicate the Windows 11 interface.
 
 ## Table of Contents
